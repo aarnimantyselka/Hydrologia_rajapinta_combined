@@ -1,0 +1,702 @@
+﻿Paikka_Id;Tunnus;Nimi;Suurekoodi;Suure;Vesistonumero;Tila;EnsimmainenHavainto;ViimeisinHavainto;layer;mkuntanro;Maakunta
+996;1402150;Kiimasjärvi, Hietamankoski;Q;Virtaama;14.612;Jatkuva;1.1.1968;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1003;1402710;Nilakka, Äyskoski;Q;Virtaama;14.731;Jatkuva;1.1.1994;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+1005;1403300;Niinivesi, Nokisenkoski;Q;Virtaama;14.721;Jatkuva;1.1.1994;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+1007;1403600;Hankavesi - luusua;Q;Virtaama;14.712;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+1008;1403900;Konnevesi - luusua;Q;Virtaama;14.711;Jatkuva;22.6.1909;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1012;1404120;Leivonvesi, Simuna;Q;Virtaama;14.352;Jatkuva;1.1.1978;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1013;1404230;Armisvesi - luusua;Q;Virtaama;14.373;Jatkuva;1.1.1974;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1015;1404450;Saraavesi, Kuhankoski;Q;Virtaama;14.321;Jatkuva;1.1.1941;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1018;1404550;Leppävesi, Vaajakoski;Q;Virtaama;14.311;Jatkuva;1.1.1941;22.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1019;1404725;Palokkajärvi, Lohikoski;Q;Virtaama;14.291;Jatkuva;1.1.1967;4.5.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1020;1404800;Muuratjärvi - luusua;Q;Virtaama;14.281;Jatkuva;1.1.1969;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1021;1404810;Saarijärvi - luusua;Q;Virtaama;14.272;Jatkuva;1.1.1984;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1022;1405000;Petäjävesi - luusua;Q;Virtaama;14.531;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1024;1405225;Patalankoski;Q;Virtaama;14.512;Jatkuva;1.1.1962;30.11.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1025;1405310;Pälämä - luusua;Q;Virtaama;14.262;Jatkuva;2.6.1983;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+1028;1405450;Arrakosken voimalaitos;Q;Virtaama;14.252;Jatkuva;1.1.1984;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1029;1405700;Jääsjärvi - luusua;Q;Virtaama;14.821;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1030;1406220;Vesijärvi, Vääksynjoki;Q;Virtaama;14.241;Jatkuva;1.4.1973;30.11.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1033;1406510;Päijänne, Kalkkinen;Q;Virtaama;14.211;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1038;1406950;Konnivesi, Vuolenkoski;Q;Virtaama;14.131;Jatkuva;1.10.1959;22.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1040;1407150;Mankala;Q;Virtaama;14.122;Jatkuva;1.1.1951;22.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1041;1407400;Rauhajärvi - luusua;Q;Virtaama;14.931;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+1043;1407410;Iso-Naakkima - luusua;Q;Virtaama;14.937;Jatkuva;1.1.1987;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+1044;1407700;Synsiä - luusua;Q;Virtaama;14.926;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+1045;1407830;Vahvajärvi - luusua;Q;Virtaama;14.921;Jatkuva;1.1.1940;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+1046;1407850;Liekune, Kissakoski;Q;Virtaama;14.922;Jatkuva;1.1.1949;22.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+1047;1408050;Volanjoki;Q;Virtaama;14.916;Jatkuva;1.1.1980;27.4.2020;Virtaama Q jatkuvat;10;Etelä-Savo
+1048;1408350;Vuohijärvi, Siikakoski;Q;Virtaama;14.912;Jatkuva;1.1.1963;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1050;1408650;Voikkaa;Q;Virtaama;14.121;Jatkuva;1.1.1964;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1052;1408950;Kannuskoski;Q;Virtaama;14.183;Jatkuva;1.10.1961;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1053;1409120;Jyräänkoski, pato;Q;Virtaama;14.182;Jatkuva;1.2.1963;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1055;1409500;Keltti;Q;Virtaama;14.114;Jatkuva;1.1.1932;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1056;1409550;Kuusankoski;Q;Virtaama;14.115;Jatkuva;1.1.1941;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1057;1410000;Piirteenvirta;Q;Virtaama;14.111;Jatkuva;1.1.1934;30.4.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1058;1410050;Anjala;Q;Virtaama;14.112;Jatkuva;7.4.1938;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1060;1410200;Piirteenvirta;Q;Virtaama;14.111;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1061;1410400;Pernoonkoski;Q;Virtaama;14.111;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1063;1410450;Kymijoki, kokonaisvirtaama;Q;Virtaama;14.111;Jatkuva;1.1.1941;21.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1065;1410650;Kymijoki, itähaara;Q;Virtaama;14.111;Jatkuva;1.1.1970;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1066;1410651;Koivukoski;Q;Virtaama;14.111;Jatkuva;1.1.1954;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1067;1410652;Korkeakoski;Q;Virtaama;14.111;Jatkuva;1.1.1970;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1068;1410700;Sutela;Q;Virtaama;14.111;Jatkuva;1.1.1974;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1070;1410840;Hirvikoski;Q;Virtaama;14.111;Jatkuva;1.1.1950;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1073;1410950;Ediskoski;Q;Virtaama;14.111;Jatkuva;1.1.1970;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1074;1410951;Kymijoki, länsihaara;Q;Virtaama;14.111;Jatkuva;1.1.1934;21.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1075;1411250;Ahvenkoski;Q;Virtaama;14.111;Jatkuva;18.3.1933;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+1076;1600110;Pyhäjärvi - luusua;Q;Virtaama;16.003;Jatkuva;1.1.1954;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1078;1800300;Patomäenkoski;Q;Virtaama;18.042;Jatkuva;1.1.1993;22.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1079;1800500;Vakkola;Q;Virtaama;18.021;Jatkuva;1.2.1963;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1081;1900100;Vekkoski;Q;Virtaama;19.002;Jatkuva;1.1.1966;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1083;1900400;Hirvihaaranjoki;Q;Virtaama;19.004;Jatkuva;1.1.1987;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1084;2100110;Hirvijärvi - luusua;Q;Virtaama;21.033;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;5;Kanta-Häme
+1085;2100120;Ylä-Suolijärvi - luusua;Q;Virtaama;21.033;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1087;2100130;Kytäjärvi - luusua;Q;Virtaama;21.032;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1090;2101220;Myllymäki;Q;Virtaama;21.012;Jatkuva;1.1.1959;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1091;2101310;Tuusulanjärvi - luusua;Q;Virtaama;21.082;Jatkuva;1.1.1961;22.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1092;2101370;Päijännetunneli - Rusutjärvi;Q;Virtaama;21.083;Jatkuva;1.1.1993;22.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1093;2101470;Päijännetunneli - Keravanjoki;Q;Virtaama;14.221;Jatkuva;1.8.1989;22.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1095;2101520;Hanala;Q;Virtaama;21.092;Jatkuva;1.1.1966;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1097;2101700;Oulunkylä;Q;Virtaama;21.011;Jatkuva;1.1.1937;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1098;2200310;Palojärvenkoski;Q;Virtaama;22.004;Jatkuva;1.1.1964;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1101;2300100;Vanjoki, Jokikunta;Q;Virtaama;23.042;Jatkuva;1.1.1951;22.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1106;2300560;Väänteenjoki;Q;Virtaama;23.031;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1107;2300935;Peltokoski;Q;Virtaama;23.012;Jatkuva;1.1.1938;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1109;2301050;Billnäs;Q;Virtaama;23.011;Jatkuva;1.1.1946;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+1110;2400400;Kiskonjoki, Koski, kokonaisvirtaama;Q;Virtaama;24.021;Jatkuva;1.1.1963;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1111;2500400;Kaukolankoski;Q;Virtaama;25.002;Jatkuva;1.3.1970;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1112;2700160;Hovirinnankoski;Q;Virtaama;27.032;Jatkuva;1.3.1966;30.6.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1113;2700250;Juvankoski;Q;Virtaama;27.021;Jatkuva;1.1.1958;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1114;2700350;Juntola;Q;Virtaama;27.013;Jatkuva;1.1.1994;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1115;2700370;Paimionjoki - Aurajoki;Q;Virtaama;27.013;Jatkuva;1.1.1966;13.8.2017;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1116;2800300;Hypöistenkoski;Q;Virtaama;28.002;Jatkuva;1.7.1943;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1117;2800700;Halinen;Q;Virtaama;28.001;Jatkuva;1.1.1938;22.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1119;3100200;Laajoki;Q;Virtaama;31.002;Jatkuva;1.1.1987;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1120;3200400;Puttakoski;Q;Virtaama;32.002;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1122;3300400;Ylinenkoski;Q;Virtaama;33.002;Jatkuva;1.1.1969;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1123;3400130;Yläneenjoki;Q;Virtaama;34.042;Jatkuva;15.5.1970;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+1124;3400140;Pyhäjoki;Q;Virtaama;34.062;Jatkuva;1.6.1971;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1125;3400150;Pyhäjärvi - luusua;Q;Virtaama;34.022;Jatkuva;1.1.1965;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1127;3400450;Pappilankoski;Q;Virtaama;34.012;Jatkuva;1.1.1985;7.9.2023;Virtaama Q jatkuvat;4;Satakunta
+1131;3500110;Äväntäjärvi - luusua;Q;Virtaama;35.724;Jatkuva;1.1.1984;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1133;3501000;Vesijako - Palsankoski;Q;Virtaama;35.784;Jatkuva;1.1.1985;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1134;3501001;Vesijako - Sumperinvirta;Q;Virtaama;14.252;Jatkuva;1.1.1985;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1136;3501200;Kukkia, luusua;Q;Virtaama;35.781;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1137;3501650;Valkeakoski;Q;Virtaama;35.711;Jatkuva;1.1.1956;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1138;3501810;Haarajoki;Q;Virtaama;35.835;Jatkuva;1.1.1972;23.12.2025;Virtaama Q jatkuvat;5;Kanta-Häme
+1139;3501820;Mustajoki;Q;Virtaama;35.836;Jatkuva;1.1.1971;22.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1140;3501880;Teuronjoki, Jokelankoski;Q;Virtaama;35.833;Jatkuva;12.1.1971;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+1141;3501910;Puujoki, Varunteenkoski;Q;Virtaama;35.822;Jatkuva;3.4.1978;23.12.2025;Virtaama Q jatkuvat;5;Kanta-Häme
+1146;3503320;Vanajavesi - Kuokkalankoski;Q;Virtaama;35.221;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1147;3503360;Lempäälä+Kuokkalankoski;Q;Virtaama;35.221;Jatkuva;1.1.1962;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1148;3503860;Hankavesi - Inha;Q;Virtaama;35.432;Jatkuva;1.1.1983;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1151;3504051;Killinkoski;Q;Virtaama;35.423;Jatkuva;1.4.1981;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1155;3504800;Kitusjärvi - luusua;Q;Virtaama;35.482;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1157;3505800;Vilppulankoski;Q;Virtaama;35.611;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1158;3506200;Muroleenkoski;Q;Virtaama;35.321;Jatkuva;01.01.1863;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+3789;0408200;Unnukka, Varkaus;Q;Virtaama;04.271;Jatkuva;1.1.2015;28.9.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3790;0408206;Ämmäkosken säännöstelypato;Q;Virtaama;04.271;Jatkuva;1.1.2015;28.9.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3792;0408207;Ämmäkosken ja Kämärin kalatiet;Q;Virtaama;04.271;Jatkuva;1.1.2015;28.9.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3794;1405455;Arrakosken kalatie;Q;Virtaama;14.252;Jatkuva;15.11.2019;23.12.2025;Virtaama Q jatkuvat;7;Päijät-Häme
+3850;0601000;Rakkolanjoki, Vormuinmäki;Q;Virtaama;06.021;Jatkuva;13.11.2015;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3872;6503225;Loukinen;Q;Virtaama;65.691;Jatkuva;8.8.2019;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3895;4700600;Långfors;Q;Virtaama;47.012;Jatkuva;4.3.2021;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3915;3400000;Ahmasoja;Q;Virtaama;34.024;Jatkuva;5.6.2020;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+3932;3508340;Matalusjoki;Q;Virtaama;35.511;Jatkuva;;;Virtaama Q jatkuvat;6;Pirkanmaa
+3934;3508390;Turkimusoja;Q;Virtaama;35.515;Jatkuva;;;Virtaama Q jatkuvat;6;Pirkanmaa
+3939;3503310;Vanajavesi - Lempäälän kanava;Q;Virtaama;35.221;Jatkuva;1.1.2022;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+3944;4400012;Jääskänjärven kalatie;Q;Virtaama;44.098;Jatkuva;25.10.2022;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3952;4207100;Rengon pato, pohjapadon virtaama;Q;Virtaama;42.071;Jatkuva;31.10.2022;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3957;3509870;Piilijoki;Q;Virtaama;35.153;Jatkuva;4.4.2023;4.10.2023;Virtaama Q jatkuvat;4;Satakunta
+3960;4900354;Kaitfors kalatie lisävesitysputki;Q;Virtaama;49.022;Jatkuva;4.4.2023;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3969;1403020;Haringan pato, virtaama;Q;Virtaama;14.722;Jatkuva;;;Virtaama Q jatkuvat;11;Pohjois-Savo
+3973;0300460;Hiitolanjoki, Kangaskoski;Q;Virtaama;03.011;Jatkuva;1.9.2021;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3987;0409951;Maaveden voimalaitos;Q;Virtaama;04.252;Jatkuva;;;Virtaama Q jatkuvat;11;Pohjois-Savo
+3989;0409953;Vasaralankosken säännöstelypato;Q;Virtaama;04.252;Jatkuva;;;Virtaama Q jatkuvat;11;Pohjois-Savo
+3991;6701200;Muonionjoki, Kolari;Q;Virtaama;67.321;Jatkuva;;;Virtaama Q jatkuvat;19;Lappi
+3992;2801200;Savojärvi;Q;Virtaama;28.005;Jatkuva;21.9.2024;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+3995;1100705;Kantturakoski, kalatie;Q;Virtaama;11.001;Jatkuva;30.4.2025;18.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+4000;3003000;Mynäjoki, Mietoinen Sillanpää;Q;Virtaama;30.001;Jatkuva;;;Virtaama Q jatkuvat;2;Varsinais-Suomi
+4004;8204701;Raisionjoki, Huhko;Q;Virtaama;82.047;Jatkuva;;;Virtaama Q jatkuvat;2;Varsinais-Suomi
+4006;3400510;Eurajoki, Eurajoen vanha jvp;Q;Virtaama;34.01;Jatkuva;21.9.2024;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+3955;2400401;Kiskonjoki, Koski, pato;Q;Virtaama;24.021;Jatkuva;1.12.2022;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+3956;2400402;Kiskonjoki, Koski, kalatie;Q;Virtaama;24.021;Jatkuva;10.2.2023;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3788;4400118;Saukkojärvi;Q;Virtaama;44.095;Jatkuva;1.8.1999;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3791;0408205;Huruskosken voimalaitos;Q;Virtaama;04.271;Jatkuva;1.1.2015;28.9.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3870;0405510;Kiurujoki, Saarikoski;Q;Virtaama;04.523;Jatkuva;;;Virtaama Q jatkuvat;11;Pohjois-Savo
+3902;4700800;Värnum;Q;Virtaama;47.013;Jatkuva;5.11.2024;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3875;4207102;Kiikun pato virtaama;Q;Virtaama;42.071;Jatkuva;24.7.2006;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2589;5903470;Otermajärvi-luusua;Q;Virtaama;59.262;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+2675;3602110;Salmus ala;Q;Virtaama;36.013;Jatkuva;8.9.1999;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+2681;3900100;Kivi- ja Levalammen tekojärvi;Q;Virtaama;39.004;Jatkuva;2.1.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2685;4200270;Kauhajoen säänn.pato;Q;Virtaama;42.091;Jatkuva;3.4.1987;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2687;4200280;Jalasjoen säänn.pato;Q;Virtaama;42.042;Jatkuva;3.4.1987;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2692;4200410;Kyrkösjärven tekojärvi;Q;Virtaama;42.071;Jatkuva;1.1.1992;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2697;4400140;Kätkänjärvi;Q;Virtaama;44.073;Jatkuva;2.12.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2700;4400112;Jääskänjärvi;Q;Virtaama;44.097;Jatkuva;6.5.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2702;4400113;Kuotesjärvi;Q;Virtaama;44.095;Jatkuva;6.5.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2706;4400116;Kuorasjärvi;Q;Virtaama;44.095;Jatkuva;2.10.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2708;4400220;Varpulan tekojärvi;Q;Virtaama;44.092;Jatkuva;12.3.1970;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2714;4900370;Ullavanjärvi;Q;Virtaama;49.054;Jatkuva;;;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2716;4900320;Vissavesi;Q;Virtaama;49.067;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2719;4900200;Venetjärvi;Q;Virtaama;49.072;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2721;4900100;Patanan tekoallas;Q;Virtaama;49.092;Jatkuva;2.12.2000;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2723;4900120;Yrttikosken säänn. Pato;Q;Virtaama;49.082;Jatkuva;30.12.1996;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2725;4900330;Emmesin järvi;Q;Virtaama;49.051;Jatkuva;;;Virtaama Q jatkuvat;15;Pohjanmaa
+2726;4900410;Lahnakoski;Q;Virtaama;49.012;Jatkuva;5.9.2002;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+2734;4200411;Kalajärven voimalaitos;Q;Virtaama;42.073;Jatkuva;21.2.1977;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+2739;6500435;Matarakoski;Q;Virtaama;65.821;Jatkuva;1.10.1995;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+2740;6500445;Kelukoski;Q;Virtaama;65.821;Jatkuva;28.9.2001;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+2741;6501800;Savukoski;Q;Virtaama;65.421;Jatkuva;26.4.1954;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1159;3506610;Kuusjärvi - luusua;Q;Virtaama;35.341;Jatkuva;1.1.1986;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1160;3506950;Tammerkoski;Q;Virtaama;35.311;Jatkuva;1.1.1933;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1163;3507450;Nokia;Q;Virtaama;35.211;Jatkuva;1.1.1953;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1166;3507650;Käenkoski;Q;Virtaama;35.532;Jatkuva;1.1.1967;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1168;3507900;Leppäsjärvi - luusua;Q;Virtaama;35.571;Jatkuva;1.1.1933;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1171;3508250;Kyröskoski;Q;Virtaama;35.521;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1174;3508750;Hartolankoski;Q;Virtaama;35.131;Jatkuva;1.1.1952;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1178;3509052;Äetsä;Q;Virtaama;35.123;Jatkuva;1.1.1957;22.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+1180;3509140;Liesjärvi - luusua;Q;Virtaama;35.982;Jatkuva;1.1.1963;23.12.2025;Virtaama Q jatkuvat;5;Kanta-Häme
+1181;3509150;Kuhalankoski;Q;Virtaama;35.931;Jatkuva;1.1.1966;30.4.2018;Virtaama Q jatkuvat;5;Kanta-Häme
+1183;3509350;Loimijoki, Sallilankoski;Q;Virtaama;35.913;Jatkuva;1.1.1989;14.11.2025;Virtaama Q jatkuvat;4;Satakunta
+1185;3509410;Loimijoki, Maurialankoski;Q;Virtaama;35.912;Jatkuva;1.1.1985;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1186;3509800;Sääksjärvi - luusua;Q;Virtaama;35.152;Jatkuva;1.1.1921;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1187;3510350;Kolsi;Q;Virtaama;35.122;Jatkuva;1.1.1947;22.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1188;3510450;Harjavalta;Q;Virtaama;35.121;Jatkuva;1.1.1931;22.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1190;3600800;Vatajankoski;Q;Virtaama;36.031;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1192;3602200;Eteläjoki, Paratiisink.;Q;Virtaama;36.016;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1194;3602225;Karvianjoki, kokonaisvirtaama;Q;Virtaama;36.012;Jatkuva;1.1.1969;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1195;3602300;Pohjajoki;Q;Virtaama;36.012;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1196;3602500;Lankoski;Q;Virtaama;36.011;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1197;3700300;Perus;Q;Virtaama;37.013;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1200;3800910;Puskamarkki;Q;Virtaama;38.001;Jatkuva;8.8.1985;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1201;3900800;Allmänningsforsen;Q;Virtaama;39.002;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1203;4000910;Köpingsbro;Q;Virtaama;40.002;Jatkuva;1.1.1979;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1204;4100900;Karkkimala;Q;Virtaama;41.002;Jatkuva;1.1.1972;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1210;4200250;Pitkämö;Q;Virtaama;42.041;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1212;4200451;Kalajärvi + Seinäjoki;Q;Virtaama;42.073;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1213;4200600;Kyrönjoki, Hanhikoski;Q;Virtaama;42.023;Jatkuva;1.1.1951;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1214;4201000;Skatila;Q;Virtaama;42.012;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1215;4400110;Töysänjoki;Q;Virtaama;44.081;Jatkuva;1.5.1980;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1217;4400251;Hirvikoski + Nurmonjoki;Q;Virtaama;44.092;Jatkuva;1.8.1999;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1218;4400310;Tampparinkoski;Q;Virtaama;44.031;Jatkuva;1.5.1980;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1221;4400610;Keppo;Q;Virtaama;44.012;Jatkuva;1.1.1957;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1222;4400850;Uusikaarlepyy;Q;Virtaama;44.011;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1223;4700260;Kurejoki;Q;Virtaama;47.042;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1225;4700325;Ähtävänjoki, Hanhikoski;Q;Virtaama;47.023;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1227;4700450;Kattilakoski;Q;Virtaama;47.015;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+1229;4700650;Herrfors;Q;Virtaama;47.012;Jatkuva;1.1.1965;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1230;4800100;Kruunupyy;Q;Virtaama;48.001;Jatkuva;1.1.1993;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1231;4900300;Tunkkari;Q;Virtaama;49.024;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+1232;4900350;Kaitfors, kokonaisvirtaama;Q;Virtaama;49.022;Jatkuva;1.4.1983;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+1235;5000300;Hyyppä;Q;Virtaama;50.002;Jatkuva;1.3.1966;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+1237;5100200;Lestijärvi - luusua;Q;Virtaama;51.041;Jatkuva;1.1.1921;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+1239;5100500;Saarenpää;Q;Virtaama;51.012;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+1241;5300161;Reis-Vuohtajärvi, pato;Q;Virtaama;53.053;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1242;5300162;Settijärvi, pato;Q;Virtaama;53.072;Jatkuva;1.1.1983;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1243;5300163;Kuonanjärvi, pato;Q;Virtaama;53.083;Jatkuva;1.1.1983;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1246;5300250;Hinkua;Q;Virtaama;53.081;Jatkuva;1.1.1991;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1247;5300350;Oksava vl;Q;Virtaama;53.043;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1248;5300400;Malisjoki;Q;Virtaama;53.061;Jatkuva;1.1.1986;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1250;5300550;Padinki;Q;Virtaama;53.033;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1252;5300650;Hamari;Q;Virtaama;53.031;Jatkuva;1.11.1984;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1253;5300740;Niskakoski;Q;Virtaama;53.021;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1255;5400150;Venetpalo;Q;Virtaama;54.042;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1256;5400160;Pyhäjärvi - luusua;Q;Virtaama;54.051;Jatkuva;1.10.1971;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1259;5400250;Haapakoski;Q;Virtaama;54.031;Jatkuva;1.10.1983;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1262;5400410;Tolpankoski;Q;Virtaama;54.011;Jatkuva;16.5.1983;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1263;5700130;Lamujoki;Q;Virtaama;57.061;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1264;5700161;Iso Lamujärvi, pato;Q;Virtaama;57.064;Jatkuva;1.1.1977;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1265;5700162;Kortteinen, pato;Q;Virtaama;57.063;Jatkuva;1.1.1977;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1267;5700250;Uljua + Siikajoki;Q;Virtaama;57.023;Jatkuva;1.5.1970;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1268;5700410;Harjunniva;Q;Virtaama;57.014;Jatkuva;1.5.1958;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1269;5700700;Länkelä;Q;Virtaama;57.012;Jatkuva;1.1.1936;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1270;5900110;Hossanjärvi - luusua;Q;Virtaama;59.522;Jatkuva;11.9.1962;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1271;5900160;Vellijärvi - luusua;Q;Virtaama;59.572;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1272;5900180;Pesiöjärvi - luusua;Q;Virtaama;59.541;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1274;5900250;Kiantajärvi, Ämmäkoski;Q;Virtaama;59.511;Jatkuva;1.1.1960;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1275;5900251;Aittokoski;Q;Virtaama;59.611;Jatkuva;26.6.1960;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1276;5900300;Vuokkijärvi - luusua;Q;Virtaama;59.612;Jatkuva;1.1.1911;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1277;5900360;Palojärvi - luusua;Q;Virtaama;59.632;Jatkuva;1.1.1983;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1280;5900510;Niemelänjärvi - luusua;Q;Virtaama;59.721;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1282;5900650;Emäjoki, Seitenoikea;Q;Virtaama;59.431;Jatkuva;1.6.1961;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1283;5900750;Pyhäntä;Q;Virtaama;59.482;Jatkuva;1.7.1957;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1286;5900940;Uva - luusua;Q;Virtaama;59.442;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1287;5900950;Leppikoski;Q;Virtaama;59.411;Jatkuva;1.1.1963;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1289;5901110;Kivesjärvi - luusua;Q;Virtaama;59.351;Jatkuva;1.1.1988;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1290;5901320;Änättijärvi - luusua;Q;Virtaama;59.931;Jatkuva;14.8.1911;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1291;5901600;Kalliojärvi - luusua;Q;Virtaama;59.952;Jatkuva;1.1.1975;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1292;5901710;Lentua - luusua;Q;Virtaama;59.921;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1293;5901820;Saunajärvi - luusua;Q;Virtaama;59.977;Jatkuva;1.4.1986;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1294;5901900;Lammasjärvi - luusua;Q;Virtaama;59.912;Jatkuva;1.1.1937;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1296;5902100;Kellojärvi - luusua;Q;Virtaama;59.942;Jatkuva;1.1.1977;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1299;5902250;Ontojärvi, Katerma;Q;Virtaama;59.911;Jatkuva;1.1.1950;22.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1301;5902530;Jormasjärvi - luusua;Q;Virtaama;59.882;Jatkuva;1.1.1985;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1303;5902650;Nuasjärvi, Koivukoski;Q;Virtaama;59.811;Jatkuva;1.4.1948;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1305;5903450;Oulujärvi, Jylhämä;Q;Virtaama;59.311;Jatkuva;1.1.1950;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1307;5903551;Nuojua;Q;Virtaama;59.213;Jatkuva;1.1.1954;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1308;5903750;Utanen;Q;Virtaama;59.211;Jatkuva;11.5.1956;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1310;5904050;Pälli;Q;Virtaama;59.131;Jatkuva;1.1.1973;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1312;5904052;Pyhäkoski;Q;Virtaama;59.122;Jatkuva;1.1.1956;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1313;5904053;Montta;Q;Virtaama;59.121;Jatkuva;1.1.1956;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1314;5904450;Merikoski;Q;Virtaama;59.111;Jatkuva;1.1.1950;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1315;6000100;Porkkalan silta;Q;Virtaama;60.022;Jatkuva;1.1.1962;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1316;6000110;Iso Puutiojärvi - luusua;Q;Virtaama;60.052;Jatkuva;1.1.1975;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1317;6000200;Nuorittajoki;Q;Virtaama;60.061;Jatkuva;1.1.1967;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1318;6000410;Haukipudas;Q;Virtaama;60.011;Jatkuva;1.1.1977;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1323;6100260;Irnijärvi, pato;Q;Virtaama;61.321;Jatkuva;1.6.1966;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+894;0100150;Ruskeakoski;Q;Virtaama;01.021;Jatkuva;1.1.1959;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+895;0101251;Vääräkoski;Q;Virtaama;01.012;Jatkuva;1.1.1981;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+896;0201000;Kontturi;Q;Virtaama;02.021;Jatkuva;1.1.1978;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+897;0300250;Juankoski;Q;Virtaama;03.021;Jatkuva;1.3.1975;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+898;0300450;Kangaskoski;Q;Virtaama;03.011;Jatkuva;1.1.1982;31.7.2021;Virtaama Q jatkuvat;9;Etelä-Karjala
+900;0400520;Jongunjoki, Viitakoski;Q;Virtaama;04.432;Jatkuva;1.1.1973;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+901;0400600;Lieksanjoki, Ruunaa;Q;Virtaama;04.492;Jatkuva;1.1.1931;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+903;0400850;Lieksanjoki, Lieksankoski;Q;Virtaama;04.422;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+905;0401110;Saramojoki, Roukkajankoski;Q;Virtaama;04.472;Jatkuva;1.1.1974;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+907;0401320;Valtimonjoki, Nuolikoski;Q;Virtaama;04.463;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+908;0401350;Valtimonjoki, Kuokkastenkoski;Q;Virtaama;04.461;Jatkuva;1.1.1993;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+909;0401920;Haapajoki, Putkulankoski;Q;Virtaama;04.953;Jatkuva;1.1.1976;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+910;0402120;Koitajoki, Möhkönkoski;Q;Virtaama;04.931;Jatkuva;23.11.1965;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+917;0402850;Koitajoki, Pamilo;Q;Virtaama;04.912;Jatkuva;1.5.1955;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+919;0403350;Pielisjoki, Kaltimo;Q;Virtaama;04.342;Jatkuva;1.12.1958;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+921;0404350;Pielisjoki, Kuurna;Q;Virtaama;04.332;Jatkuva;1.1.1972;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+923;0404813;Rauanjoki;Q;Virtaama;04.831;Jatkuva;1.1.1979;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+924;0404850;Höytiäinen, Puntarikoski;Q;Virtaama;04.821;Jatkuva;1.1.1958;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+927;0405250;Pyhäjärvi, Puhos;Q;Virtaama;04.391;Jatkuva;1.1.1966;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+931;0405750;Salahminjärvi, Salahmi;Q;Virtaama;04.541;Jatkuva;1.1.1969;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+933;0406010;Sonkajärvi - luusua;Q;Virtaama;04.583;Jatkuva;1.1.1973;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+935;0406260;Porovesi, Nerohvirta;Q;Virtaama;04.512;Jatkuva;1.1.1983;18.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+937;0406460;Onkivesi, Viannonkoski;Q;Virtaama;04.511;Jatkuva;1.9.1977;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+938;0406610;Pulkonkoski;Q;Virtaama;04.287;Jatkuva;6.4.1982;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+939;0406750;Laakajärvi, Kiltua;Q;Virtaama;04.644;Jatkuva;1.1.1983;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+941;0406860;Kiltuanjärvi, Jyrkkä;Q;Virtaama;04.643;Jatkuva;13.4.1998;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+943;0406950;Sälevä;Q;Virtaama;04.642;Jatkuva;1.1.1991;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+944;0407050;Atro;Q;Virtaama;04.641;Jatkuva;1.1.1957;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+946;0407260;Syväri, Lastukoski;Q;Virtaama;04.631;Jatkuva;1.1.1989;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+949;0407410;Keyritty - luusua;Q;Virtaama;04.673;Jatkuva;1.1.1987;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+951;0407750;Karjalankoski;Q;Virtaama;04.612;Jatkuva;1.1.1961;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+954;0408081;Kallavesi, Konnus;Q;Virtaama;04.272;Jatkuva;1.1.1931;17.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+955;0408087;Kallavesi - Konnus + Karvio;Q;Virtaama;04.272;Jatkuva;1.1.1931;17.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+956;0408300;Saarijärvi - luusua;Q;Virtaama;04.741;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+958;0408320;Kajoonjärvi - luusua;Q;Virtaama;04.761;Jatkuva;1.1.1975;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+961;0408650;Juojärvi, Palokki;Q;Virtaama;04.711;Jatkuva;1.1.1961;22.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+962;0408700;Varisvesi, Karvio;Q;Virtaama;04.273;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+963;0408900;Kermajärvi - luusua;Q;Virtaama;04.274;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;12;Pohjois-Karjala
+964;0409550;Sorsavesi, Sorsakoski;Q;Virtaama;04.263;Jatkuva;1.10.1988;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+967;0409950;Maavesi;Q;Virtaama;04.252;Jatkuva;1.1.1960;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+969;0410400;Lohnajärvi - luusua;Q;Virtaama;04.172;Jatkuva;1.1.1975;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+970;0410410;Kuolimo - luusua;Q;Virtaama;04.141;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+972;0410600;Suurijärvi - luusua;Q;Virtaama;04.124;Jatkuva;8.6.1982;23.12.2025;Virtaama Q jatkuvat;10;Etelä-Savo
+974;0411450;Vuoksi, Tainionkoski;Q;Virtaama;04.112;Jatkuva;1.1.1960;22.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+976;1100500;Salmen silta;Q;Virtaama;11.002;Jatkuva;1.3.1966;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+977;1400300;Saanijärvi - luusua;Q;Virtaama;14.491;Jatkuva;1.1.1951;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+980;1400520;Kärnäjärvi, Kellankoski;Q;Virtaama;14.471;Jatkuva;1.1.1941;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+982;1400800;Kivijärvi, Potmonkoski;Q;Virtaama;14.443;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+983;1400850;Kivijärvi, Hilmo;Q;Virtaama;14.443;Jatkuva;1.1.1958;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+984;1400900;Vuosjärvi, Huopanankoski;Q;Virtaama;14.441;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+985;1401000;Muuruejärvi - luusua;Q;Virtaama;14.432;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+986;1401350;Keitele, Äänekoski;Q;Virtaama;14.411;Jatkuva;1.2.1934;30.11.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+987;1401500;Pääjärvi - luusua;Q;Virtaama;14.631;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+988;1401600;Karankajärvi - luusua;Q;Virtaama;14.661;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+989;1401700;Kalmarinjärvi - luusua;Q;Virtaama;14.623;Jatkuva;1.1.1910;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+991;1401850;Leuhunkoski;Q;Virtaama;14.614;Jatkuva;1.1.1962;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+992;1401912;Lannevesi - luusua;Q;Virtaama;14.651;Jatkuva;1.4.1962;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+993;1402050;Pyhäjärvi, Parantala;Q;Virtaama;14.681;Jatkuva;1.1.1970;23.12.2025;Virtaama Q jatkuvat;13;Keski-Suomi
+2954;1700500;Ilolanjoki, Ilolan silta;Q;Virtaama;17.001;Jatkuva;8.1.1996;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+2981;1601100;Koskenkylänjoki, Niinikoski;Q;Virtaama;16.001;Jatkuva;1.8.1995;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3006;8102800;Espoonjoki;Q;Virtaama;81.055;Jatkuva;24.3.1995;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3018;2104900;Lepsämänjoki;Q;Virtaama;21.041;Jatkuva;4.1.2002;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3029;1408450;Verla;Q;Virtaama;14.911;Jatkuva;1.1.1996;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3030;1410610;Pihkoo;Q;Virtaama;14.111;Jatkuva;1.1.2000;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3033;1409750;Myllykoski;Q;Virtaama;14.113;Jatkuva;25.11.1999;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3038;1411150;Klåsarö;Q;Virtaama;14.111;Jatkuva;1.1.1984;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3039;1411000;Paaskoski;Q;Virtaama;14.111;Jatkuva;1.1.1984;22.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3044;2300240;Nummenjoki, Pirkkula;Q;Virtaama;23.061;Jatkuva;9.6.1981;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3073;2101500;Vantaa,Ylikylä;Q;Virtaama;21.021;Jatkuva;19.3.2002;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3086;5700251;Lämsänkosken ohijuoksutus;Q;Virtaama;57.023;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3096;3600510;Karhijärvenpato,ala;Q;Virtaama;36.092;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;4;Satakunta
+1326;6100360;Kostonjärvi, pato;Q;Virtaama;61.622;Jatkuva;16.1.1965;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1328;6100500;Väätäjänsuvanto;Q;Virtaama;61.231;Jatkuva;1.1.1956;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1330;6100620;Suolijärvi - luusua;Q;Virtaama;61.722;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;18;Kainuu
+1331;6100640;Jaurakkajärvi - luusua;Q;Virtaama;61.712;Jatkuva;1.3.1960;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1332;6100700;Kurenalus;Q;Virtaama;61.211;Jatkuva;1.1.1986;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1336;6101210;Livojoki, Hanhikoski;Q;Virtaama;61.513;Jatkuva;1.1.1974;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1338;6101451;Haapakoski;Q;Virtaama;61.124;Jatkuva;3.8.1963;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1339;6101452;Pahkakoski;Q;Virtaama;61.123;Jatkuva;14.9.1961;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1340;6101550;Kierikki;Q;Virtaama;61.122;Jatkuva;1.1.1966;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1341;6101600;Siuruanjoki, Leuvankoski;Q;Virtaama;61.412;Jatkuva;1.10.1959;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1342;6101750;Maalismaa;Q;Virtaama;61.121;Jatkuva;1.1.1968;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1344;6101950;Raasakka;Q;Virtaama;61.111;Jatkuva;1.1.1971;22.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1346;6300210;Ravaska;Q;Virtaama;63.012;Jatkuva;1.1.1965;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1347;6400310;Hosionkoski;Q;Virtaama;64.031;Jatkuva;1.1.1962;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1349;6400410;Simo;Q;Virtaama;64.012;Jatkuva;1.1.1965;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1351;6500250;Porttipahta;Q;Virtaama;65.831;Jatkuva;1.5.1971;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1352;6500362;Lokka, pato;Q;Virtaama;65.931;Jatkuva;1.8.1967;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1353;6500380;Sattasjoki;Q;Virtaama;65.861;Jatkuva;1.1.1977;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1354;6500415;Kitinen, Kurittukoski;Q;Virtaama;65.822;Jatkuva;1.10.1987;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1355;6500425;Kitinen, Vajukoski;Q;Virtaama;65.822;Jatkuva;1.10.1984;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1356;6500485;Kitinen, Kurkiaska;Q;Virtaama;65.814;Jatkuva;1.1.1993;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1357;6500550;Kitinen, Kokkosniva;Q;Virtaama;65.813;Jatkuva;1.1.1991;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1358;6500760;Luiro, Kammonen;Q;Virtaama;65.913;Jatkuva;1.11.1987;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1359;6501351;Jumisko;Q;Virtaama;65.317;Jatkuva;1.1.1955;22.12.2025;Virtaama Q jatkuvat;19;Lappi
+1360;6501700;Kemihaara;Q;Virtaama;65.412;Jatkuva;1.1.1921;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1364;6502050;Seitakorva;Q;Virtaama;65.311;Jatkuva;15.5.1963;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1365;6502150;Pirttikoski;Q;Virtaama;65.231;Jatkuva;1.1.1960;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1366;6502151;Juotas, konevirtaama;Q;Virtaama;65.271;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1368;6502250;Vanttauskoski;Q;Virtaama;65.22;Jatkuva;1.10.1971;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1370;6502400;Vikajärvi - luusua;Q;Virtaama;65.721;Jatkuva;1.1.1994;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1372;6502550;Olkkajärvi, Permantokoski;Q;Virtaama;65.712;Jatkuva;1.1.1962;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1373;6503000;Ounasjärvi - luusua;Q;Virtaama;65.632;Jatkuva;1.8.1949;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1374;6503200;Ounasjoki, Köngäs;Q;Virtaama;65.612;Jatkuva;1.1.1941;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1376;6503510;Unari - luusua;Q;Virtaama;65.592;Jatkuva;1.1.1982;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1377;6503600;Ounasjoki, Marraskoski;Q;Virtaama;65.521;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1379;6503720;Sinettäjärvi - luusua;Q;Virtaama;65.514;Jatkuva;1.6.1964;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1382;6504050;Valajaskoski;Q;Virtaama;65.132;Jatkuva;1.12.1960;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1383;6504056;Petäjäskoski;Q;Virtaama;65.131;Jatkuva;28.6.1957;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1386;6504251;Ossauskoski;Q;Virtaama;65.121;Jatkuva;2.9.1965;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1387;6504350;Taivalkoski;Q;Virtaama;65.112;Jatkuva;1.1.1981;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1388;6504450;Isohaara;Q;Virtaama;65.111;Jatkuva;1.1.1949;22.12.2025;Virtaama Q jatkuvat;19;Lappi
+1389;6700100;Kilpisjärvi - luusua;Q;Virtaama;67.64;Jatkuva;6.9.1952;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1390;6700200;Peerajärvi - luusua;Q;Virtaama;67.65;Jatkuva;1.5.1959;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1391;6700510;Muonionjoki, Kaaresuvanto;Q;Virtaama;67.52;Jatkuva;1.1.1972;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1393;6700800;Muonionjoki, Muonio;Q;Virtaama;67.422;Jatkuva;1.1.1938;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1396;6701300;Naamijoki;Q;Virtaama;67.821;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1397;6701500;Pello;Q;Virtaama;67.231;Jatkuva;1.1.1959;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1399;6701750;Raanujärvi, Jolma;Q;Virtaama;67.962;Jatkuva;1.1.1959;22.12.2025;Virtaama Q jatkuvat;19;Lappi
+1400;6701840;Konttajärvi - luusua;Q;Virtaama;67.951;Jatkuva;1.1.1985;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1401;6701850;Iso-Vietonen, Kaaranneskoski;Q;Virtaama;67.961;Jatkuva;1.1.1959;22.12.2025;Virtaama Q jatkuvat;19;Lappi
+1403;6701950;Tengeliönjoki, Haapakoski;Q;Virtaama;67.912;Jatkuva;1.1.1959;22.12.2025;Virtaama Q jatkuvat;19;Lappi
+1406;6702200;Karunki;Q;Virtaama;67.12;Jatkuva;1.1.1911;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1409;6800510;Inarijoki, Karigasniemi;Q;Virtaama;68.031;Jatkuva;6.2.1975;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1410;6801000;Onnelansuvanto;Q;Virtaama;68.021;Jatkuva;1.1.1959;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1411;6801100;Utsjoki, Patoniva;Q;Virtaama;68.072;Jatkuva;8.6.1962;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1412;6810110;Alaköngäs;Q;Virtaama;68.012;Jatkuva;8.6.1962;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1413;6900100;Iijärvi - luusua;Q;Virtaama;69.031;Jatkuva;1.1.1951;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1414;7100700;Kettujoki;Q;Virtaama;71.241;Jatkuva;1.1.1948;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1415;7100800;Juutuanjoki;Q;Virtaama;71.212;Jatkuva;1.1.1921;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1417;7101100;Repojoki;Q;Virtaama;71.562;Jatkuva;9.6.1972;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1419;7101320;Ivalojoki, Pajakoski;Q;Virtaama;71.413;Jatkuva;1.1.1961;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1421;7101800;Nellimjoki;Q;Virtaama;71.121;Jatkuva;1.2.1971;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1423;7101950;Kaitakoski;Q;Virtaama;71.111;Jatkuva;1.1.1949;21.12.2025;Virtaama Q jatkuvat;19;Lappi
+1425;7200500;Lutto;Q;Virtaama;72.011;Jatkuva;1.1.1993;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+1426;7300100;Oulankajoki;Q;Virtaama;73.012;Jatkuva;1.1.1966;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1427;7300220;Kitkajoki, Käylä;Q;Virtaama;73.023;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1428;7300350;Myllykoski;Q;Virtaama;73.042;Jatkuva;13.5.1957;30.9.2023;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+1430;7401000;Muojärvi - luusua;Q;Virtaama;74.021;Jatkuva;1.1.1997;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3158;4400115;Iso-Allasjärvi;Q;Virtaama;44.096;Jatkuva;1.8.1999;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3159;4400114;Vähä-Allasjärvi;Q;Virtaama;44.096;Jatkuva;1.8.1999;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3160;4200281;Niiles;Q;Virtaama;42.042;Jatkuva;1.8.2003;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3215;5700252;Uljuan juoksutus vl;Q;Virtaama;57.022;Jatkuva;1.1.1971;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3216;5703100;Lämsä meno (uljuan täyttökanava);Q;Virtaama;57.023;Jatkuva;1.1.1974;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3218;5800100;Tyrnävänjoki, lm;Q;Virtaama;58.052;Jatkuva;10.4.1989;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3235;8400900;Pattijoki;Q;Virtaama;84.09;Jatkuva;7.6.1984;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3236;5300130;Korpinen;Q;Virtaama;53.058;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3237;5300120;Kiljanjärvi;Q;Virtaama;53.057;Jatkuva;2.10.2004;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3238;5300140;Iso-Juurikka;Q;Virtaama;53.059;Jatkuva;1.1.1980;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3239;5300340;Jämsänkosken sp;Q;Virtaama;53.043;Jatkuva;26.9.2004;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3240;5300164;Haittaperän sp;Q;Virtaama;53.082;Jatkuva;2.10.2004;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3241;5300150;Jalkakosken sp;Q;Virtaama;53.043;Jatkuva;2.10.2004;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3257;2100300;Ridasjärvi;Q;Virtaama;21.094;Jatkuva;1.1.2002;22.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3260;3508400;Siuro, ylä;Q;Virtaama;35.511;Jatkuva;31.12.1997;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+3264;8102000;Loviisanjoki, urheilukenttä;Q;Virtaama;81.027;Jatkuva;1.1.2000;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3265;1500600;Taasianjoki, Holmankoski;Q;Virtaama;15.002;Jatkuva;1.1.2002;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3277;4900353;Kaitfors, ohijuoksutus;Q;Virtaama;49.022;Jatkuva;1.4.1983;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3324;2300340;Vihtijärvi, Sorvarinjoki;Q;Virtaama;23.092;Jatkuva;2.2.2002;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3328;0418081;Konnuskoski;Q;Virtaama;04.272;Jatkuva;1.11.1990;17.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3329;0428081;Naapuskoski;Q;Virtaama;04.272;Jatkuva;1.11.1990;17.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3330;0438081;Konnus laivakanava;Q;Virtaama;04.272;Jatkuva;1.11.1990;17.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3334;6500710;Pallasjärvi-luusua;Q;Virtaama;65.652;Jatkuva;7.9.2004;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3335;6500720;Pyhäjoki;Q;Virtaama;65.652;Jatkuva;8.9.2004;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3851;0605800;Hounijoki, Myllymäenkoski;Q;Virtaama;06.011;Jatkuva;10.10.2019;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3858;4200460;Kuljunkoski, Peräseinäjoki;Q;Virtaama;42.073;Jatkuva;8.4.2021;10.2.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3933;3508370;Ruonanjoki;Q;Virtaama;35.592;Jatkuva;;;Virtaama Q jatkuvat;6;Pirkanmaa
+3900;4700700;Finnholm;Q;Virtaama;47.013;Jatkuva;3.3.2021;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3907;2900200;Hirvijoki, Nousiainen;Q;Virtaama;29.002;Jatkuva;11.9.2014;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+3945;4207200;Kyrkösjärven täyttökanava;Q;Virtaama;42.071;Jatkuva;24.7.2006;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3968;4802000;Djupsjön;Q;Virtaama;48.004;Jatkuva;9.8.2024;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3988;0409952;Vasaralankosken kalatie;Q;Virtaama;04.252;Jatkuva;;;Virtaama Q jatkuvat;11;Pohjois-Savo
+3892;4700560;Björkfors, Q;Q;Virtaama;47.014;Jatkuva;3.3.2021;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3947;6502152;Juotas, ohijuoksutus;Q;Virtaama;65.271;Jatkuva;;;Virtaama Q jatkuvat;19;Lappi
+3975;0912000;Urpalanjoki, Tohmonsilta;Q;Virtaama;09.001;Jatkuva;2.9.1970;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3394;6503221;Seurujoki;Q;Virtaama;65.697;Jatkuva;9.9.2007;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3406;2300402;Olkkalanjoki;Q;Virtaama;23.091;Jatkuva;11.4.2006;22.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3499;4200420;Seinäjärvi;Q;Virtaama;42.074;Jatkuva;30.9.2011;23.12.2025;Virtaama Q jatkuvat;6;Pirkanmaa
+3524;8103200;Ingarskilaån;Q;Virtaama;81.064;Jatkuva;6.6.2007;23.12.2025;Virtaama Q jatkuvat;1;Uusimaa
+3532;4200900;Hiirikoski;Q;Virtaama;42.016;Jatkuva;1.1.2015;31.10.2022;Virtaama Q jatkuvat;15;Pohjanmaa
+3536;4409110;Hourunkoski, kokonaisvirtaama;Q;Virtaama;44.031;Jatkuva;9.9.2005;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3538;4403200;Mäkelänkoski, kokonaisvirtaama;Q;Virtaama;44.033;Jatkuva;25.3.2013;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3540;3543100;Ryötönkoski, kokonaisvirtaama;Q;Virtaama;35.431;Jatkuva;25.3.2013;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3542;3542400;Vääräkoski, kokonaisvirtaama;Q;Virtaama;35.424;Jatkuva;25.3.2013;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3544;6300101;Kivijoki;Q;Virtaama;63.031;Jatkuva;5.11.2005;23.12.2025;Virtaama Q jatkuvat;17;Pohjois-Pohjanmaa
+3551;4200432;Liikapuron tekojärvi pato;Q;Virtaama;42.078;Jatkuva;17.4.2013;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3558;4700350;Hattar;Q;Virtaama;47.013;Jatkuva;1.1.2014;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3568;4200290;Jalasjoki, Jalasjärvi;Q;Virtaama;42.043;Jatkuva;12.2.2014;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3580;3900150;Jurva, Tainuskylä;Q;Virtaama;39.005;Jatkuva;25.3.2015;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3581;1300101;Reitkalli, Puutarhak. silta;Q;Virtaama;13.001;Jatkuva;2.4.2003;23.12.2025;Virtaama Q jatkuvat;8;Kymenlaakso
+3602;0409760;Liuna;Q;Virtaama;04.251;Jatkuva;25.1.2016;22.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3605;3502200;Loppijärvi - Luusua;Q;Virtaama;35.874;Jatkuva;1.7.2009;29.2.2016;Virtaama Q jatkuvat;5;Kanta-Häme
+3607;4700430;Evijärvi, Kaarenhaara;Q;Virtaama;47.015;Jatkuva;31.3.2016;23.12.2025;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3619;0411760;Vuoksi, Imatra;Q;Virtaama;04.111;Jatkuva;14.6.2016;22.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3670;3600530;Riuttan pato ala;Q;Virtaama;36.015;Jatkuva;;;Virtaama Q jatkuvat;4;Satakunta
+3671;3600540;Maajärvi;Q;Virtaama;36.017;Jatkuva;;;Virtaama Q jatkuvat;4;Satakunta
+3674;0448081;Konnus tulvakanava;Q;Virtaama;04.272;Jatkuva;13.9.2017;23.12.2025;Virtaama Q jatkuvat;11;Pohjois-Savo
+3678;2801000;Paattistenjoki mittapato;Q;Virtaama;28.004;Jatkuva;11.3.2017;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+3681;0600200;Kalliokoskenoja;Q;Virtaama;06.022;Jatkuva;24.2.2017;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3682;0600800;Haapajärvi;Q;Virtaama;06.022;Jatkuva;24.2.2017;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3683;0600210;Lisävesi Rakkolanjokeen;Q;Virtaama;06.022;Jatkuva;24.2.2017;23.12.2025;Virtaama Q jatkuvat;9;Etelä-Karjala
+3719;2400000;Perniönjoki Pohjankoski;Q;Virtaama;24.042;Jatkuva;24.4.2015;23.12.2025;Virtaama Q jatkuvat;2;Varsinais-Suomi
+3727;6502130;Näskänjärvi;Q;Virtaama;65.275;Jatkuva;6.3.2018;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3728;6502140;Paattinkijärvi;Q;Virtaama;65.275;Jatkuva;6.3.2018;23.12.2025;Virtaama Q jatkuvat;19;Lappi
+3743;3510800;Forssa, Loimijoki Q;Q;Virtaama;35.923;Jatkuva;1.9.2015;23.12.2025;Virtaama Q jatkuvat;5;Kanta-Häme
+3748;4900123;Yrttikoski ohivirtaus;Q;Virtaama;49.082;Jatkuva;24.9.2018;23.12.2025;Virtaama Q jatkuvat;16;Keski-Pohjanmaa
+3749;4900352;Kaitfors, konevirtaama;Q;Virtaama;49.022;Jatkuva;25.9.2018;23.12.2025;Virtaama Q jatkuvat;15;Pohjanmaa
+3751;3900300;Säläisjärvi;Q;Virtaama;39.003;Jatkuva;19.12.2018;15.9.2020;Virtaama Q jatkuvat;14;Etelä-Pohjanmaa
+3976;0900400;Lastenlampi, luusua;Q;Virtaama;09.002;Jatkuva;;;Virtaama Q jatkuvat;8;Kymenlaakso
+994;1402100;Kiimasjärvi - luusua;Q;Virtaama;14.612;Lopetettu;1.9.1909;31.12.1966;Virtaama Q lopetetut;13;Keski-Suomi
+995;1402110;Naarajärvi - luusua;Q;Virtaama;14.611;Lopetettu;12.5.1936;31.12.1981;Virtaama Q lopetetut;13;Keski-Suomi
+997;1402200;Kuhnamo, Kapeenkoski;Q;Virtaama;14.332;Lopetettu;1.1.1911;31.12.1992;Virtaama Q lopetetut;13;Keski-Suomi
+998;1402210;Kuhnamo, Kapeenkoski;Q;Virtaama;14.332;Lopetettu;1.1.1946;31.12.1987;Virtaama Q lopetetut;13;Keski-Suomi
+999;1402300;Vatianjärvi - luusua;Q;Virtaama;14.331;Lopetettu;1.1.1909;31.12.1977;Virtaama Q lopetetut;13;Keski-Suomi
+1000;1402500;Koivujärvi - luusua;Q;Virtaama;14.753;Lopetettu;1.1.1910;1.5.2005;Virtaama Q lopetetut;11;Pohjois-Savo
+1001;1402510;Koivujoki;Q;Virtaama;14.752;Lopetettu;1.1.1973;31.12.1974;Virtaama Q lopetetut;11;Pohjois-Savo
+1002;1402520;Koivujoki;Q;Virtaama;14.752;Lopetettu;1.1.1975;11.12.1994;Virtaama Q lopetetut;11;Pohjois-Savo
+1004;1402900;Nilakka, Äyskoski;Q;Virtaama;14.731;Lopetettu;01.01.1896;28.2.1994;Virtaama Q lopetetut;11;Pohjois-Savo
+1006;1403310;Niinivesi, Nokisenkoski;Q;Virtaama;14.721;Lopetettu;1.1.1929;28.2.1994;Virtaama Q lopetetut;11;Pohjois-Savo
+1009;1404000;Vanginvesi - luusua;Q;Virtaama;14.361;Lopetettu;1.1.1910;30.12.2007;Virtaama Q lopetetut;13;Keski-Suomi
+1010;1404100;Kynsivesi, Simuna;Q;Virtaama;14.352;Lopetettu;1.1.1910;31.12.1963;Virtaama Q lopetetut;13;Keski-Suomi
+1011;1404110;Kynsivesi, Simuna;Q;Virtaama;14.352;Lopetettu;1.1.1941;31.8.1978;Virtaama Q lopetetut;13;Keski-Suomi
+1014;1404250;Venekoski;Q;Virtaama;14.371;Lopetettu;1.3.1962;28.2.2007;Virtaama Q lopetetut;13;Keski-Suomi
+1016;1404500;Leppävesi - luusua;Q;Virtaama;14.311;Lopetettu;1.1.1910;31.12.1918;Virtaama Q lopetetut;13;Keski-Suomi
+1017;1404510;Leppävesi - luusua;Q;Virtaama;14.311;Lopetettu;1.1.1919;31.12.1946;Virtaama Q lopetetut;13;Keski-Suomi
+1023;1405100;Salosjärvi - luusua;Q;Virtaama;14.523;Lopetettu;1.1.1910;31.12.1991;Virtaama Q lopetetut;13;Keski-Suomi
+1026;1405400;Lummene, Harmoistenoja;Q;Virtaama;14.254;Lopetettu;1.1.1985;31.12.1995;Virtaama Q lopetetut;6;Pirkanmaa
+1027;1405401;Lummene, Porraskoski;Q;Virtaama;14.254;Lopetettu;1.1.1985;31.12.1995;Virtaama Q lopetetut;6;Pirkanmaa
+1031;1406460;Päijännetunneli - Vantaa;Q;Virtaama;21.094;Lopetettu;1.7.1982;31.12.1988;Virtaama Q lopetetut;1;Uusimaa
+1032;1406500;Päijänne, Kalkkinen;Q;Virtaama;14.211;Lopetettu;1.1.1911;31.12.1963;Virtaama Q lopetetut;7;Päijät-Häme
+1034;1406566;Päijänne, Kalkkinen;Q;Virtaama;14.211;Lopetettu;1.1.1964;31.12.1969;Virtaama Q lopetetut;7;Päijät-Häme
+1035;1406800;Ala-Rieveli - luusua;Q;Virtaama;14.171;Lopetettu;1.1.1934;31.12.2003;Virtaama Q lopetetut;7;Päijät-Häme
+1036;1406900;Konnivesi, Vuolenkoski;Q;Virtaama;14.131;Lopetettu;1.1.1909;31.12.1958;Virtaama Q lopetetut;7;Päijät-Häme
+1037;1406920;Sylvöjärvi - luusua;Q;Virtaama;14.161;Lopetettu;;;Virtaama Q lopetetut;7;Päijät-Häme
+1039;1407000;Kaurakoski;Q;Virtaama;14.122;Lopetettu;1.1.1901;31.12.1950;Virtaama Q lopetetut;7;Päijät-Häme
+1042;1407401;Kyyvesi - luusua;Q;Virtaama;14.931;Lopetettu;1.1.1910;31.12.1965;Virtaama Q lopetetut;10;Etelä-Savo
+1049;1408400;Kamponen - luusua;Q;Virtaama;14.911;Lopetettu;1.1.1910;31.12.1962;Virtaama Q lopetetut;8;Kymenlaakso
+1051;1408800;Ylä-Kivijärvi - luusua;Q;Virtaama;14.191;Lopetettu;1.1.1910;31.12.1961;Virtaama Q lopetetut;9;Etelä-Karjala
+1054;1409410;Kuusankoski;Q;Virtaama;14.115;Lopetettu;1.1.1909;30.9.1939;Virtaama Q lopetetut;8;Kymenlaakso
+1059;1410100;Piirteenvirta;Q;Virtaama;14.111;Lopetettu;1.1.1970;31.12.1991;Virtaama Q lopetetut;8;Kymenlaakso
+1062;1410410;Pernoonkoski;Q;Virtaama;14.111;Lopetettu;1.1.1970;29.2.1984;Virtaama Q lopetetut;8;Kymenlaakso
+1064;1410480;Kymijoki, itähaara;Q;Virtaama;14.111;Lopetettu;1.1.1954;30.4.1978;Virtaama Q lopetetut;8;Kymenlaakso
+1069;1410820;Hirvivuolle;Q;Virtaama;14.111;Lopetettu;1.1.1941;31.12.1991;Virtaama Q lopetetut;8;Kymenlaakso
+1071;1410920;Villikkalanjoki;Q;Virtaama;14.116;Lopetettu;1.1.1952;31.12.1964;Virtaama Q lopetetut;8;Kymenlaakso
+1072;1410930;Villikkalanjoki;Q;Virtaama;14.116;Lopetettu;1.1.1970;31.12.1987;Virtaama Q lopetetut;8;Kymenlaakso
+1077;1800200;Kukonkoski;Q;Virtaama;18.051;Lopetettu;1.1.1980;31.12.1988;Virtaama Q lopetetut;7;Päijät-Häme
+1080;1800650;Strömsberg;Q;Virtaama;18.012;Lopetettu;1.1.1991;31.8.1998;Virtaama Q lopetetut;1;Uusimaa
+1082;1900300;Ridanfors;Q;Virtaama;19.001;Lopetettu;1.1.1932;31.12.1965;Virtaama Q lopetetut;1;Uusimaa
+1086;2100121;Ala-Suolijärvi - luusua;Q;Virtaama;21.033;Lopetettu;1.1.1965;30.9.2004;Virtaama Q lopetetut;1;Uusimaa
+1094;2101510;Hanala;Q;Virtaama;21.092;Lopetettu;1.1.1940;31.12.1965;Virtaama Q lopetetut;1;Uusimaa
+1096;2101600;Stenkulla;Q;Virtaama;21.091;Lopetettu;6.5.1912;31.12.1927;Virtaama Q lopetetut;1;Uusimaa
+1099;2200610;Siuntionjoki;Q;Virtaama;22.002;Lopetettu;1.1.1969;14.8.1975;Virtaama Q lopetetut;1;Uusimaa
+1100;2200620;Siuntionjoki;Q;Virtaama;22.002;Lopetettu;1.1.1975;10.10.2000;Virtaama Q lopetetut;1;Uusimaa
+1102;2300146;Keritty - luusua;Q;Virtaama;23.054;Lopetettu;1.1.1971;31.12.1992;Virtaama Q lopetetut;5;Kanta-Häme
+1103;2300156;Punelia - luusua;Q;Virtaama;23.053;Lopetettu;1.1.1971;4.4.2016;Virtaama Q lopetetut;5;Kanta-Häme
+1104;2300160;Sakara - luusua;Q;Virtaama;23.053;Lopetettu;1.1.1971;31.12.1995;Virtaama Q lopetetut;5;Kanta-Häme
+1105;2300250;Vanjoki, Nahkakoski;Q;Virtaama;23.042;Lopetettu;1.1.1991;30.9.2006;Virtaama Q lopetetut;1;Uusimaa
+1108;2301000;Landsbro;Q;Virtaama;23.012;Lopetettu;1.1.1911;31.12.1954;Virtaama Q lopetetut;1;Uusimaa
+1118;3000200;Mynäjoki;Q;Virtaama;30.003;Lopetettu;1.1.1988;31.12.1991;Virtaama Q lopetetut;2;Varsinais-Suomi
+1121;3300370;Lapinjoki - Rauman tehtaat;Q;Virtaama;33.002;Lopetettu;1.1.1962;31.12.1992;Virtaama Q lopetetut;4;Satakunta
+1126;3400350;Panelia;Q;Virtaama;34.013;Lopetettu;1.1.1971;31.12.1985;Virtaama Q lopetetut;4;Satakunta
+1128;3400470;Eurajoki -Lapinjoki;Q;Virtaama;83.012;Lopetettu;1.1.1963;31.12.1992;Virtaama Q lopetetut;4;Satakunta
+1129;3400500;Suutelankoski;Q;Virtaama;34.011;Lopetettu;1.1.1965;31.12.1984;Virtaama Q lopetetut;4;Satakunta
+1130;3500100;Juupajoki;Q;Virtaama;35.751;Lopetettu;1.1.1911;31.12.1920;Virtaama Q lopetetut;6;Pirkanmaa
+1132;3500400;Pitkävesi - luusua;Q;Virtaama;35.761;Lopetettu;1.1.1911;31.12.1937;Virtaama Q lopetetut;6;Pirkanmaa
+1135;3501050;Porraskoski;Q;Virtaama;35.783;Lopetettu;1.1.1984;31.5.1987;Virtaama Q lopetetut;5;Kanta-Häme
+1142;3502000;Puujoki, Leppäkoski;Q;Virtaama;35.821;Lopetettu;1.1.1911;31.12.1937;Virtaama Q lopetetut;5;Kanta-Häme
+1143;3502300;Haapajärvi - luusua;Q;Virtaama;35.881;Lopetettu;1.1.1911;31.12.1952;Virtaama Q lopetetut;5;Kanta-Häme
+1144;3502340;Hyvikkälänjoki;Q;Virtaama;35.882;Lopetettu;3.11.1978;31.12.1991;Virtaama Q lopetetut;5;Kanta-Häme
+1145;3503100;Tarpianjoki;Q;Virtaama;35.281;Lopetettu;1.1.1911;31.12.1932;Virtaama Q lopetetut;6;Pirkanmaa
+1149;3503900;Niemisvesi - luusua;Q;Virtaama;35.471;Lopetettu;1.1.1911;31.12.1920;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1150;3504000;Ouluvesi - luusua;Q;Virtaama;35.431;Lopetettu;1.1.1911;31.12.1935;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1152;3504100;Kahilanjärvi - luusua;Q;Virtaama;35.423;Lopetettu;17.4.1956;31.12.1981;Virtaama Q lopetetut;6;Pirkanmaa
+1153;3504400;Toisvesi - Herraskoski;Q;Virtaama;35.421;Lopetettu;1.1.1904;31.12.1979;Virtaama Q lopetetut;6;Pirkanmaa
+1154;3504700;Pihlajavesi - luusua;Q;Virtaama;35.483;Lopetettu;1.1.1911;30.9.1986;Virtaama Q lopetetut;13;Keski-Suomi
+1156;3505200;Sinerväjärvi - luusua;Q;Virtaama;35.672;Lopetettu;1.1.1931;31.12.1999;Virtaama Q lopetetut;13;Keski-Suomi
+3861;4200435;Jouttikoski, Testiasema;Q;Virtaama;42.072;Lopetettu;7.4.2021;5.5.2021;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+2588;5900340;Iso-Parvajärvi-luusua;Q;Virtaama;59.651;Lopetettu;1.1.1977;19.6.2018;Virtaama Q lopetetut;18;Kainuu
+2641;5900182;Itäjärvi - luusua;Q;Virtaama;59.546;Lopetettu;31.1.1993;22.8.2005;Virtaama Q lopetetut;18;Kainuu
+2642;5900183;Pieni-pesiöjärvi - luusua;Q;Virtaama;59.542;Lopetettu;17.1.1991;22.8.2005;Virtaama Q lopetetut;18;Kainuu
+2643;5900184;Mustajärvi - luusua;Q;Virtaama;59.543;Lopetettu;1.1.1991;31.8.2005;Virtaama Q lopetetut;18;Kainuu
+2644;5900187;Rapuanlampi - luusua;Q;Virtaama;59.544;Lopetettu;27.1.1990;1.12.2007;Virtaama Q lopetetut;18;Kainuu
+2645;5900188;Tuomijoki;Q;Virtaama;59.544;Lopetettu;17.4.1991;21.8.2005;Virtaama Q lopetetut;18;Kainuu
+2646;5900189;Heinäjoki;Q;Virtaama;59.545;Lopetettu;11.6.1993;18.11.2002;Virtaama Q lopetetut;18;Kainuu
+2689;4200431;Liikapuron tekojärvi;Q;Virtaama;42.078;Lopetettu;2.2.1992;25.2.2010;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+2694;4400320;Kauhavanjoki;Q;Virtaama;44.061;Lopetettu;25.4.1958;31.10.1993;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+2766;0101100;Jänisjoki, Saario, ylä;Q;Virtaama;01.012;Lopetettu;1.9.1982;31.8.2007;Virtaama Q lopetetut;12;Pohjois-Karjala
+2768;0101000;Jänisjoki, Vihtakoski;Q;Virtaama;01.013;Lopetettu;1.9.1982;31.8.2007;Virtaama Q lopetetut;12;Pohjois-Karjala
+2808;0405010;Karjalanjoki;Q;Virtaama;04.398;Lopetettu;14.5.1992;30.12.1992;Virtaama Q lopetetut;12;Pohjois-Karjala
+1161;3506951;Tampere, Alakoski;Q;Virtaama;35.211;Lopetettu;1.1.1970;31.8.1984;Virtaama Q lopetetut;6;Pirkanmaa
+1162;3507300;Nokia;Q;Virtaama;35.211;Lopetettu;1.1.1939;31.12.1952;Virtaama Q lopetetut;6;Pirkanmaa
+1164;3507500;Nerkoonjärvi - luusua;Q;Virtaama;35.538;Lopetettu;1.1.1931;8.9.1939;Virtaama Q lopetetut;6;Pirkanmaa
+1165;3507600;Linnanjärvi - luusua;Q;Virtaama;35.533;Lopetettu;1.1.1911;31.12.1957;Virtaama Q lopetetut;6;Pirkanmaa
+1167;3507700;Parkanonjoki;Q;Virtaama;35.531;Lopetettu;1.1.1931;31.12.1971;Virtaama Q lopetetut;6;Pirkanmaa
+1169;3508000;Jämijärvi - luusua;Q;Virtaama;35.541;Lopetettu;1.1.1931;31.12.1954;Virtaama Q lopetetut;4;Satakunta
+1170;3508200;Kyröskoski;Q;Virtaama;35.521;Lopetettu;1.1.1907;31.12.1933;Virtaama Q lopetetut;6;Pirkanmaa
+1172;3508500;Mätikkö - luusua;Q;Virtaama;35.161;Lopetettu;1.1.1911;31.12.1954;Virtaama Q lopetetut;6;Pirkanmaa
+1173;3508700;Vammaskoski;Q;Virtaama;35.131;Lopetettu;1.1.1911;31.12.1950;Virtaama Q lopetetut;6;Pirkanmaa
+1175;3508800;Kiikka;Q;Virtaama;35.123;Lopetettu;1.9.1902;31.12.1957;Virtaama Q lopetetut;6;Pirkanmaa
+1176;3509050;Äetsä;Q;Virtaama;35.123;Lopetettu;1.1.1940;31.12.1955;Virtaama Q lopetetut;6;Pirkanmaa
+1177;3509051;Äetsä;Q;Virtaama;35.123;Lopetettu;1.1.1949;31.12.1956;Virtaama Q lopetetut;6;Pirkanmaa
+1179;3509120;Salkolanjärvi - luusua;Q;Virtaama;35.983;Lopetettu;1.1.1975;31.12.1990;Virtaama Q lopetetut;2;Varsinais-Suomi
+1182;3509200;Loimijoki, Vesikoski;Q;Virtaama;35.921;Lopetettu;1.11.1910;31.12.1935;Virtaama Q lopetetut;2;Varsinais-Suomi
+1184;3509400;Loimijoki, Maurialankoski;Q;Virtaama;35.912;Lopetettu;1.1.1931;31.12.1984;Virtaama Q lopetetut;4;Satakunta
+1189;3510600;Harjunpäänjoki;Q;Virtaama;35.141;Lopetettu;1.1.1970;31.12.1991;Virtaama Q lopetetut;4;Satakunta
+1191;3600850;Vatajankoski;Q;Virtaama;36.031;Lopetettu;1.1.1990;4.11.2022;Virtaama Q lopetetut;4;Satakunta
+1193;3602210;Eteläjoki, Maantiesilta;Q;Virtaama;36.016;Lopetettu;8.9.1999;30.8.2013;Virtaama Q lopetetut;4;Satakunta
+1198;3700400;Perus;Q;Virtaama;37.013;Lopetettu;1.1.1970;31.12.1979;Virtaama Q lopetetut;15;Pohjanmaa
+1199;3800900;Tiukka;Q;Virtaama;38.001;Lopetettu;1.1.1972;31.8.1985;Virtaama Q lopetetut;15;Pohjanmaa
+1202;4000900;Köpingsbro;Q;Virtaama;40.002;Lopetettu;1.1.1972;31.12.1978;Virtaama Q lopetetut;15;Pohjanmaa
+1205;4200100;Koskuejärvi - luusua;Q;Virtaama;42.055;Lopetettu;18.6.1925;31.12.1966;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1206;4200200;Jalasjoki, Luopa;Q;Virtaama;42.042;Lopetettu;1.1.1926;31.12.1947;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1207;4200210;Jalasjoki, Luopa;Q;Virtaama;42.042;Lopetettu;1.6.1960;31.10.1964;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1208;4200220;Koskutjoki, Koskue;Q;Virtaama;42.054;Lopetettu;22.6.1982;31.8.1984;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1209;4200230;Koskutjoki;Q;Virtaama;42.054;Lopetettu;1.9.1984;16.9.2009;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1211;4200251;Kauhajoki, Jyllinkoski;Q;Virtaama;42.041;Lopetettu;1.4.1959;31.12.1969;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1216;4400200;Nurmonjoki;Q;Virtaama;44.091;Lopetettu;1.1.1933;31.5.1975;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1219;4400500;Pappilankari;Q;Virtaama;44.021;Lopetettu;1.1.1931;30.9.1993;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1220;4400600;Keppo;Q;Virtaama;44.012;Lopetettu;1.1.1931;31.12.1956;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1224;4700300;Lappajärvi - luusua;Q;Virtaama;47.031;Lopetettu;1.1.1931;31.12.1964;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1226;4700410;Evijärvi - luusua;Q;Virtaama;47.021;Lopetettu;1.1.1933;31.12.1954;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+1228;4700550;Björkfors;Q;Virtaama;47.014;Lopetettu;1.1.1967;30.4.1998;Virtaama Q lopetetut;15;Pohjanmaa
+1233;4900400;Pelon silta;Q;Virtaama;49.021;Lopetettu;1.1.1968;31.12.1982;Virtaama Q lopetetut;15;Pohjanmaa
+1234;4900500;Perho;Q;Virtaama;49.011;Lopetettu;1.1.1951;31.12.1967;Virtaama Q lopetetut;16;Keski-Pohjanmaa
+1236;5000400;Jatkojoki;Q;Virtaama;50.001;Lopetettu;1.1.1950;31.12.1963;Virtaama Q lopetetut;16;Keski-Pohjanmaa
+1238;5100300;Kannus;Q;Virtaama;51.021;Lopetettu;1.1.1911;31.12.1975;Virtaama Q lopetetut;16;Keski-Pohjanmaa
+1240;5300100;Reisjärvi - luusua;Q;Virtaama;53.053;Lopetettu;1.1.1951;31.12.1954;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1244;5300200;Haapajärvi - luusua;Q;Virtaama;53.043;Lopetettu;1.1.1931;31.12.1976;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1249;5300500;Raudaskoski;Q;Virtaama;53.033;Lopetettu;1.1.1912;31.12.1978;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1251;5300600;Olmanvirta;Q;Virtaama;53.022;Lopetettu;1.1.1941;28.2.1981;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1254;5300800;Hihnalankoski;Q;Virtaama;53.021;Lopetettu;1.1.1911;30.9.1976;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1257;5400200;Haapajärvi - luusua;Q;Virtaama;54.022;Lopetettu;1.1.1931;31.12.1960;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1258;5400210;Mieluskoski;Q;Virtaama;54.022;Lopetettu;1.1.1981;31.12.1991;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1260;5400300;Napurinkallio;Q;Virtaama;54.012;Lopetettu;1.1.1963;31.12.1971;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1261;5400400;Pyhänkoski;Q;Virtaama;54.012;Lopetettu;1.1.1912;31.12.1981;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1266;5700200;Sipola;Q;Virtaama;57.022;Lopetettu;1.1.1936;31.12.1970;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1273;5900200;Kiantajärvi - luusua;Q;Virtaama;59.511;Lopetettu;1.1.1932;31.12.1949;Virtaama Q lopetetut;18;Kainuu
+1278;5900400;Vuokkijärvi, Niipas;Q;Virtaama;59.612;Lopetettu;1.1.1939;15.9.1958;Virtaama Q lopetetut;18;Kainuu
+1279;5900500;Niemelänjärvi - luusua;Q;Virtaama;59.721;Lopetettu;1.1.1963;31.12.1975;Virtaama Q lopetetut;18;Kainuu
+1281;5900600;Hyrynjärvi - luusua;Q;Virtaama;59.431;Lopetettu;1.1.1911;31.12.1959;Virtaama Q lopetetut;18;Kainuu
+1284;5900800;Iijärvi - luusua;Q;Virtaama;59.412;Lopetettu;1.1.1911;31.12.1947;Virtaama Q lopetetut;18;Kainuu
+1285;5900900;Iijärvi - luusua;Q;Virtaama;59.412;Lopetettu;1.1.1948;31.12.1962;Virtaama Q lopetetut;18;Kainuu
+1288;5901100;Kivesjärvi - luusua;Q;Virtaama;59.351;Lopetettu;1.1.1913;31.8.1954;Virtaama Q lopetetut;18;Kainuu
+1295;5902000;Lammasjärvi - luusua;Q;Virtaama;59.912;Lopetettu;1.1.1901;31.12.1938;Virtaama Q lopetetut;18;Kainuu
+1297;5902110;Kellojärvi - luusua;Q;Virtaama;59.942;Lopetettu;1.1.1939;31.3.1981;Virtaama Q lopetetut;18;Kainuu
+1298;5902200;Ontojärvi - luusua;Q;Virtaama;59.911;Lopetettu;1.1.1912;31.12.1946;Virtaama Q lopetetut;18;Kainuu
+1300;5902500;Nuasjärvi - luusua;Q;Virtaama;59.811;Lopetettu;01.01.1896;31.12.1933;Virtaama Q lopetetut;18;Kainuu
+1302;5902600;Nuasjärvi - luusua;Q;Virtaama;59.811;Lopetettu;1.1.1910;31.12.1946;Virtaama Q lopetetut;18;Kainuu
+1304;5902700;Nuasjärvi - luusua;Q;Virtaama;59.811;Lopetettu;01.01.1891;31.12.1912;Virtaama Q lopetetut;18;Kainuu
+1306;5903500;Oulujärvi - luusua;Q;Virtaama;59.311;Lopetettu;01.01.1896;31.12.1949;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1309;5904000;Sotkajärvi, Pyhäkoski;Q;Virtaama;59.131;Lopetettu;1.1.1918;31.12.1948;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1311;5904051;Pälli;Q;Virtaama;59.131;Lopetettu;1.1.1956;31.12.1972;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1319;6100110;Puossunjärvi - luusua;Q;Virtaama;61.333;Lopetettu;4.8.1960;31.12.1994;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1320;6100120;Iso-Kero - luusua;Q;Virtaama;61.322;Lopetettu;1.1.1961;30.12.1964;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1321;6100210;Irnijärvi, pato;Q;Virtaama;61.321;Lopetettu;1.9.1959;31.7.1965;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1322;6100230;Jokijärvi - luusua;Q;Virtaama;61.312;Lopetettu;1.1.1961;31.12.1968;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1324;6100310;Kuoliojoki;Q;Virtaama;61.671;Lopetettu;1.1.1965;31.12.1969;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+899;0400510;Jongunjoki, Viitakoski;Q;Virtaama;04.432;Lopetettu;1.1.1965;31.12.1972;Virtaama Q lopetetut;12;Pohjois-Karjala
+902;0400800;Lieksanjoki, Höpöttäjänvirta;Q;Virtaama;04.422;Lopetettu;1.1.1937;31.12.1960;Virtaama Q lopetetut;12;Pohjois-Karjala
+904;0401100;Saramojoki, Roukkajankoski;Q;Virtaama;04.472;Lopetettu;12.8.1963;31.12.1973;Virtaama Q lopetetut;12;Pohjois-Karjala
+906;0401300;Valtimonjoki, Kuokkastenkoski;Q;Virtaama;04.461;Lopetettu;1.7.1943;31.12.1960;Virtaama Q lopetetut;12;Pohjois-Karjala
+911;0402400;Koitajoki, Lylykoski;Q;Virtaama;04.921;Lopetettu;1.1.1936;31.12.1958;Virtaama Q lopetetut;12;Pohjois-Karjala
+912;0402410;Koitajoki, Lylykoski;Q;Virtaama;04.921;Lopetettu;1.1.1959;31.12.1976;Virtaama Q lopetetut;12;Pohjois-Karjala
+913;0402420;Koitajoki, Lylykoski;Q;Virtaama;04.921;Lopetettu;1.1.1977;31.12.2009;Virtaama Q lopetetut;12;Pohjois-Karjala
+914;0402700;Koitereenjoki, Hiiskoski;Q;Virtaama;04.941;Lopetettu;1.1.1911;31.12.1954;Virtaama Q lopetetut;12;Pohjois-Karjala
+915;0402710;Koitereenjoki, Hiiskoski;Q;Virtaama;04.941;Lopetettu;1.1.1942;31.12.1954;Virtaama Q lopetetut;12;Pohjois-Karjala
+916;0402800;Koitajoki, Siikakoski;Q;Virtaama;04.913;Lopetettu;1.1.1937;15.9.1955;Virtaama Q lopetetut;12;Pohjois-Karjala
+918;0402900;Pielisjoki, Häihä;Q;Virtaama;04.342;Lopetettu;1.1.1901;31.12.1956;Virtaama Q lopetetut;12;Pohjois-Karjala
+920;0403700;Pielisjoki, Jakokoski;Q;Virtaama;04.341;Lopetettu;1.1.1911;31.12.1970;Virtaama Q lopetetut;12;Pohjois-Karjala
+922;0404810;Höytiäinen - luusua;Q;Virtaama;04.821;Lopetettu;1.1.1941;31.12.1957;Virtaama Q lopetetut;12;Pohjois-Karjala
+928;0405300;Enonkoski;Q;Virtaama;04.291;Lopetettu;1.1.1980;31.12.1984;Virtaama Q lopetetut;10;Etelä-Savo
+929;0405360;Enonkoski;Q;Virtaama;04.291;Lopetettu;1.1.1985;31.12.1995;Virtaama Q lopetetut;10;Etelä-Savo
+930;0405440;Luupujoki;Q;Virtaama;04.572;Lopetettu;1.1.1975;31.12.1997;Virtaama Q lopetetut;11;Pohjois-Savo
+932;0406000;Sonkajärvi - luusua;Q;Virtaama;04.583;Lopetettu;1.1.1966;31.12.1972;Virtaama Q lopetetut;11;Pohjois-Savo
+934;0406200;Porovesi, Nerohvirta;Q;Virtaama;04.512;Lopetettu;1.1.1911;31.12.1951;Virtaama Q lopetetut;11;Pohjois-Savo
+936;0406400;Onkivesi, Viannonkoski;Q;Virtaama;04.511;Lopetettu;01.01.1881;31.12.1951;Virtaama Q lopetetut;11;Pohjois-Savo
+940;0406760;Laakajärvi, pato;Q;Virtaama;04.644;Lopetettu;1.10.1961;31.12.1982;Virtaama Q lopetetut;11;Pohjois-Savo
+942;0406900;Korpijärvi - luusua;Q;Virtaama;04.642;Lopetettu;1.1.1917;31.12.1956;Virtaama Q lopetetut;11;Pohjois-Savo
+945;0407200;Syväri, Lastukoski;Q;Virtaama;04.631;Lopetettu;1.1.1911;31.12.1958;Virtaama Q lopetetut;11;Pohjois-Savo
+947;0407300;Ala-Luosta - luusua;Q;Virtaama;04.681;Lopetettu;1.1.1917;31.12.1991;Virtaama Q lopetetut;11;Pohjois-Savo
+948;0407400;Keyritynjoki;Q;Virtaama;04.672;Lopetettu;1.1.1965;31.12.1987;Virtaama Q lopetetut;11;Pohjois-Savo
+950;0407630;Vuotjärvi, Juankoski;Q;Virtaama;04.621;Lopetettu;1.1.1931;31.12.1960;Virtaama Q lopetetut;11;Pohjois-Savo
+952;0407930;Räimänkoski;Q;Virtaama;04.289;Lopetettu;29.3.1982;11.1.2018;Virtaama Q lopetetut;11;Pohjois-Savo
+953;0408000;Kallavesi, Konnus;Q;Virtaama;04.272;Lopetettu;1.1.1911;31.12.1930;Virtaama Q lopetetut;11;Pohjois-Savo
+957;0408310;Kärenjärvi - luusua;Q;Virtaama;04.742;Lopetettu;26.5.1986;31.8.1993;Virtaama Q lopetetut;11;Pohjois-Savo
+959;0408600;Juojärvi - luusua;Q;Virtaama;04.711;Lopetettu;1.1.1911;31.12.1930;Virtaama Q lopetetut;12;Pohjois-Karjala
+960;0408610;Juojärvi - luusua;Q;Virtaama;04.711;Lopetettu;1.1.1931;31.12.1960;Virtaama Q lopetetut;12;Pohjois-Karjala
+965;0409600;Osmajärvi - luusua;Q;Virtaama;04.262;Lopetettu;1.1.1964;31.12.1993;Virtaama Q lopetetut;11;Pohjois-Savo
+966;0409900;Sysmäjärvi - luusua;Q;Virtaama;04.252;Lopetettu;1.10.1946;31.12.1956;Virtaama Q lopetetut;11;Pohjois-Savo
+971;0410420;Rautjärvi, Siikakoski;Q;Virtaama;04.162;Lopetettu;1.1.1976;31.12.1992;Virtaama Q lopetetut;10;Etelä-Savo
+973;0411200;Vuoksi, Imatra;Q;Virtaama;04.111;Lopetettu;01.01.1847;31.12.1900;Virtaama Q lopetetut;9;Etelä-Karjala
+975;0411750;Vuoksi, Imatra;Q;Virtaama;04.191;Lopetettu;01.01.1898;31.12.1963;Virtaama Q lopetetut;9;Etelä-Karjala
+978;1400400;Kolima - luusua;Q;Virtaama;14.472;Lopetettu;1.1.1921;31.12.1950;Virtaama Q lopetetut;13;Keski-Suomi
+979;1400500;Kolima - luusua;Q;Virtaama;14.472;Lopetettu;1.1.1937;31.12.1951;Virtaama Q lopetetut;13;Keski-Suomi
+981;1400710;Heitjärvi - luusua;Q;Virtaama;14.446;Lopetettu;1.1.1964;31.12.1999;Virtaama Q lopetetut;13;Keski-Suomi
+990;1401800;Saarijärvi - luusua;Q;Virtaama;14.614;Lopetettu;1.1.1910;31.12.1961;Virtaama Q lopetetut;13;Keski-Suomi
+2969;2300230;Pusulanjoki, Hyvelän silta;Q;Virtaama;23.061;Lopetettu;;;Virtaama Q lopetetut;1;Uusimaa
+2987;2200100;Enäjärvi, Hulttilanjoki;Q;Virtaama;22.004;Lopetettu;1.1.2002;23.12.2025;Virtaama Q lopetetut;1;Uusimaa
+3004;8102900;Mankinjoki, kehä III:n silta;Q;Virtaama;81.057;Lopetettu;8.5.1995;6.8.2014;Virtaama Q lopetetut;1;Uusimaa
+1325;6100320;Kuoliojoki;Q;Virtaama;61.671;Lopetettu;1.1.1970;31.12.1990;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1327;6100400;Koitijärvi - luusua;Q;Virtaama;61.612;Lopetettu;1.1.1961;31.12.1991;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1329;6100614;Näljänkäjärvi - luusua;Q;Virtaama;61.771;Lopetettu;1.1.1978;31.12.1994;Virtaama Q lopetetut;18;Kainuu
+1333;6100900;Kurenalus;Q;Virtaama;61.211;Lopetettu;1.1.1956;31.8.1976;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1334;6100910;Kurenalus;Q;Virtaama;61.211;Lopetettu;1.1.1977;31.12.1985;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1335;6101200;Livojoki, Hanhikoski;Q;Virtaama;61.513;Lopetettu;1.1.1960;31.12.1965;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1337;6101400;Kipinä;Q;Virtaama;61.131;Lopetettu;1.1.1956;31.12.1995;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1343;6101900;Merikoski;Q;Virtaama;61.111;Lopetettu;1.1.1911;31.12.1971;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1345;6300200;Kuivaniemi;Q;Virtaama;63.011;Lopetettu;1.1.1911;18.1.1980;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+1348;6400400;Simo;Q;Virtaama;64.012;Lopetettu;1.1.1911;31.12.1955;Virtaama Q lopetetut;19;Lappi
+1350;6500240;Angeljoki;Q;Virtaama;65.929;Lopetettu;1.1.1977;31.12.1983;Virtaama Q lopetetut;19;Lappi
+1361;6502000;Kemijärvi - luusua;Q;Virtaama;65.311;Lopetettu;1.1.1921;31.12.1959;Virtaama Q lopetetut;19;Lappi
+1362;6502010;Kemijärvi, Kulmunki;Q;Virtaama;65.311;Lopetettu;1.1.1941;31.12.1957;Virtaama Q lopetetut;19;Lappi
+1363;6502011;Kemijärvi - luusua;Q;Virtaama;65.311;Lopetettu;1.5.1946;31.12.1959;Virtaama Q lopetetut;19;Lappi
+1367;6502200;Koskenkylä;Q;Virtaama;65.212;Lopetettu;1.1.1921;31.12.1941;Virtaama Q lopetetut;19;Lappi
+1369;6502350;Kaihua;Q;Virtaama;65.241;Lopetettu;1.1.1960;31.12.1995;Virtaama Q lopetetut;19;Lappi
+1371;6502500;Olkkajärvi - luusua;Q;Virtaama;65.711;Lopetettu;1.1.1950;31.12.1960;Virtaama Q lopetetut;19;Lappi
+1375;6503300;Ounasjoki, Kaukonen;Q;Virtaama;65.541;Lopetettu;13.5.1954;31.12.1991;Virtaama Q lopetetut;19;Lappi
+1378;6503700;Ounasjoki, Marraskoski;Q;Virtaama;65.521;Lopetettu;1.1.1919;31.12.1970;Virtaama Q lopetetut;19;Lappi
+1380;6503800;Ounaskoski;Q;Virtaama;65.211;Lopetettu;1.1.1948;31.12.1960;Virtaama Q lopetetut;19;Lappi
+1381;6503900;Ounaskoski;Q;Virtaama;65.211;Lopetettu;1.1.1921;31.12.1947;Virtaama Q lopetetut;19;Lappi
+1384;6504080;Narkauskoski;Q;Virtaama;65.121;Lopetettu;1.1.1941;31.12.1957;Virtaama Q lopetetut;19;Lappi
+1385;6504250;Taivalkoski;Q;Virtaama;65.112;Lopetettu;1.5.1911;31.12.1971;Virtaama Q lopetetut;19;Lappi
+1395;6701100;Ylläsjoki;Q;Virtaama;67.371;Lopetettu;24.9.1960;31.5.1972;Virtaama Q lopetetut;19;Lappi
+1402;6701910;Portimojärvi - luusua;Q;Virtaama;67.912;Lopetettu;1.1.1954;31.12.1958;Virtaama Q lopetetut;19;Lappi
+1404;6702000;Portimojärvi - luusua;Q;Virtaama;67.912;Lopetettu;1.1.1959;31.12.1986;Virtaama Q lopetetut;19;Lappi
+1405;6702010;Tengeliönjoki, Törmäniva;Q;Virtaama;67.921;Lopetettu;1.1.1961;31.12.1965;Virtaama Q lopetetut;19;Lappi
+1408;6702203;Liakanjoki;Q;Virtaama;67.111;Lopetettu;1.1.1911;31.12.1993;Virtaama Q lopetetut;19;Lappi
+1416;7100950;Kirakkaköngäs;Q;Virtaama;71.61;Lopetettu;1.1.1956;31.7.1991;Virtaama Q lopetetut;19;Lappi
+1418;7101300;Ivalojoki, Toloskoski;Q;Virtaama;71.413;Lopetettu;1.1.1971;31.12.1980;Virtaama Q lopetetut;19;Lappi
+1420;7101600;Inari - luusua;Q;Virtaama;71.111;Lopetettu;1.1.1921;28.2.1941;Virtaama Q lopetetut;19;Lappi
+1422;7101900;Teproköngäs;Q;Virtaama;71.111;Lopetettu;17.5.1943;31.12.1950;Virtaama Q lopetetut;19;Lappi
+1424;7200100;Yli-Nuortti;Q;Virtaama;72.044;Lopetettu;1.1.1988;31.12.1991;Virtaama Q lopetetut;19;Lappi
+1429;7400200;Muojärvi - luusua;Q;Virtaama;74.021;Lopetettu;1.1.1962;31.12.1996;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+3155;1405010;Suolivesi;Q;Virtaama;14.524;Lopetettu;19.5.2004;26.10.2010;Virtaama Q lopetetut;13;Keski-Suomi
+3157;1404740;Luonetjärvi;Q;Virtaama;14.295;Lopetettu;;;Virtaama Q lopetetut;13;Keski-Suomi
+3204;3510111;Kokemäenjoki, pahakoski, paalu 780;Q;Virtaama;35.122;Lopetettu;;;Virtaama Q lopetetut;4;Satakunta
+3211;5400310;Piipsjärvi;Q;Virtaama;54.071;Lopetettu;19.2.1986;28.12.1999;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+3308;2105400;Tuusulanjoki, Myllykylä;Q;Virtaama;21.081;Lopetettu;5.4.2005;20.8.2012;Virtaama Q lopetetut;1;Uusimaa
+3421;1404750;Puuppola;Q;Virtaama;14.295;Lopetettu;19.5.2008;26.10.2010;Virtaama Q lopetetut;13;Keski-Suomi
+3466;1406600;Kalkkisten kanava;Q;Virtaama;14.141;Lopetettu;1.3.1964;31.12.2001;Virtaama Q lopetetut;7;Päijät-Häme
+3472;5700800;Pöyryn konevirtaama;Q;Virtaama;57.012;Lopetettu;;;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+3473;5400170;Kalliokoski, konevirtaama;Q;Virtaama;54.043;Lopetettu;;;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+3521;3508350;Pinsiönjoki;Q;Virtaama;35.517;Lopetettu;15.1.1987;15.9.1988;Virtaama Q lopetetut;6;Pirkanmaa
+3560;6800500;Karigasniemi;Q;Virtaama;68.031;Lopetettu;1.1.1961;5.2.1975;Virtaama Q lopetetut;19;Lappi
+3571;1410390;Pernoonkoski+Hirvikoski;Q;Virtaama;14.111;Lopetettu;1.1.1900;31.12.1955;Virtaama Q lopetetut;8;Kymenlaakso
+3576;6000400;Haukipudas;Q;Virtaama;60.011;Lopetettu;22.10.1911;31.12.1976;Virtaama Q lopetetut;17;Pohjois-Pohjanmaa
+3590;4200610;Kyrönjoki, Hanhikoski, vanha asema;Q;Virtaama;42.023;Lopetettu;1.1.1912;31.12.1918;Virtaama Q lopetetut;14;Etelä-Pohjanmaa
+3814;2701400;Paimion Vähäjoki;Q;Virtaama;27.014;Lopetettu;24.1.2020;13.10.2025;Virtaama Q lopetetut;2;Varsinais-Suomi
+3829;2403600;Enäjärvi, luusua;Q;Virtaama;24.033;Määräaikainen;7.8.2018;28.6.2025;Virtaama Q määräaikaiset;1;Uusimaa
+3009;2000110;Byabäcken (Sipoonjoki);Q;Virtaama;20.004;Satunnainen;8.1.1996;19.4.2021;Virtaama Q satunnaiset;1;Uusimaa
+1089;2100946;Sandbacka;Q;Virtaama;21.045;Satunnainen;1.1.1971;30.9.2024;Virtaama Q satunnaiset;1;Uusimaa
+1088;2100920;Valkjärvi - luusua;Q;Virtaama;21.054;Satunnainen;1.1.1961;30.9.2024;Virtaama Q satunnaiset;1;Uusimaa
+3214;5700163;Vähä-lamujärvi pato;Q;Virtaama;57.063;Satunnainen;5.1.1990;31.12.2011;Virtaama Q satunnaiset;17;Pohjois-Pohjanmaa
+3543;5904400;Sanginjoki;Q;Virtaama;59.141;Satunnainen;2.6.2008;23.12.2025;Virtaama Q satunnaiset;17;Pohjois-Pohjanmaa
+3378;8400800;Haapajärven tekojärven juoksutus;Q;Virtaama;84.088;Satunnainen;1.1.1992;3.6.2008;Virtaama Q satunnaiset;17;Pohjois-Pohjanmaa
